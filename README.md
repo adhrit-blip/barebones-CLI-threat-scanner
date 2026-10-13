@@ -1,4 +1,4 @@
-# CyberSec Threat Scanner
+# Barebones CLI threat scanner
 
 A lightweight cybersecurity project for scanning text logs and suspicious script content for common indicators of malicious activity.
 
